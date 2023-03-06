@@ -11,14 +11,7 @@ const initialData = {
         title: 'To do',
         taskIds: ['task-1', 'task-2', 'task-3', 'task-4'],
       },
-      'ddddd': {
-        id: 'ddddd',
-        title: 'To do',
-        taskIds: ['task-1', 'task-2', 'task-3', 'task-4'],
-      },
-    
-   
-
+  
     },
     // Facilitate reordering of the columns
     columnOrder: ['column-2'],
